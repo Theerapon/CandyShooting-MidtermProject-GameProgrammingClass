@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CandyBubble",
+    "\\CandyBubble\\CandyBubble",
+    "\\CandyBubble\\CandyBubble\\CandyBubble",
+    "\\CandyBubble\\CandyBubble\\CandyBubble\\GameObjects"
+  ],
+  "SelectedNode": "\\CandyBubble\\CandyBubble\\CandyBubble\\Singleton.cs",
+  "PreviewInSolutionExplorer": false
+}

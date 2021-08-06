@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Font/GameFont.spritefont","C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/bin/Windows/Font/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.2471353
+"C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Font/GameFontLevel.spritefont","C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/bin/Windows/Font/GameFontLevel.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.0279563
+"C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Font/GameFontMain.spritefont","C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/bin/Windows/Font/GameFontMain.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37905,0.0319134
+"C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Font/GameFontScore.spritefont","C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/bin/Windows/Font/GameFontScore.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.0269285
+"C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Images/background.png","C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/bin/Windows/Images/background.xnb","TextureProcessor","Texture2DContent",284254,2070805,0.4848711
+"C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Images/cody.png","C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/bin/Windows/Images/cody.xnb","TextureProcessor","Texture2DContent",90346,483925,0.0289221
+"C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Images/marshmallow.png","C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/bin/Windows/Images/marshmallow.xnb","TextureProcessor","Texture2DContent",85738,2102485,0.0788199

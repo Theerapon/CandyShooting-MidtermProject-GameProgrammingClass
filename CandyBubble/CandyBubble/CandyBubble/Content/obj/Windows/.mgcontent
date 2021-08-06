@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Font/GameFont.spritefont</File>
+    <File>C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Font/GameFontLevel.spritefont</File>
+    <File>C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Font/GameFontMain.spritefont</File>
+    <File>C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Font/GameFontScore.spritefont</File>
+    <File>C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Images/background.png</File>
+    <File>C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Images/cody.png</File>
+    <File>C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Images/marshmallow.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

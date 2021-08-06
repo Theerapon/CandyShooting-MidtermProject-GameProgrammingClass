@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/Font/GameFontMain.spritefont</SourceFile>
+  <SourceTime>2020-03-12T19:04:25.0829495+07:00</SourceTime>
+  <DestFile>C:/Users/acer/Desktop/CandyBubble/CandyBubble/Content/bin/Windows/Font/GameFontMain.xnb</DestFile>
+  <DestTime>2020-03-12T19:10:21.4381907+07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T23:35:54+07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T23:35:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
